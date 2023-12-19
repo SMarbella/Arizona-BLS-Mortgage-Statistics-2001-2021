@@ -13,8 +13,6 @@ Date of Study: 2021
 
 **Relevant Information:** https://www.bls.gov/cew/about-data/downloadable-file-layouts/annual/naics-based-annual-layout.htm
 
-**PDF:** 
-
 ## Table Columns
 The table used is a simplified version of the BLS Wages in Arizona, with some columns removed or modified.
 
@@ -44,3 +42,5 @@ area_title - Since this is only in Arizona, all area_title values are "Arizona S
 
 ## Retrieved table from
 - https://www.bls.gov/cew/downloadable-data-files.htm
+
+# Charts Generated For This Project
