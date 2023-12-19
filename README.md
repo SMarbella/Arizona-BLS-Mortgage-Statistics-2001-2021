@@ -1,4 +1,4 @@
-# Arizona-Mortgage-Statistic
+# Arizona BLS Mortgage Statistic
 This project uses the Arizona Bureau of Labor Statistics (BLS) Wages from the U.S. Bureau of Labor Statistics to answer several questions using the R programming language. I used the R programming language to analyze the data from the National Mortgage Database and created graphs that answered the prompting questions.
 
 ## Dataset Information
